@@ -1,0 +1,26 @@
+{
+  "version": "2.6.1",
+  "summary": {
+    "title": "New Threat Model",
+    "owner": "KP",
+    "description": "",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "Virtual app STRIDE",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.6.1",
+        "cells": []
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "OLA",
+    "threatTop": 0
+  }
+}
